@@ -2,6 +2,7 @@
 import doctest
 import statistics as stat
 
+# Question 5
 
 
 def compute_budget(total_budget: float, citizen_votes: list[list]) -> list[float]:
